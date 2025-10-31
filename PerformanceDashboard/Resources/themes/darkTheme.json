@@ -1,0 +1,12 @@
+{
+  "Name": "Dark",
+  "BackgroundColor": "#1E1E1E",
+  "PanelColor": "#2B2B2B",
+  "TextColor": "#FFFFFF",
+  "AccentColor": "#00BCD4",
+  "ChartBackground": "#2E2E2E",
+  "ChartLineColor": "#00BCD4",
+  "GoodColor": "#4CAF50",
+  "WarningColor": "#FFC107",
+  "CriticalColor": "#F44336"
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Blue",
+  "BackgroundColor": "#0D1117",
+  "PanelColor": "#161B22",
+  "TextColor": "#C9D1D9",
+  "AccentColor": "#58A6FF",
+  "ChartBackground": "#161B22",
+  "ChartLineColor": "#58A6FF",
+  "GoodColor": "#238636",
+  "WarningColor": "#C9A31A",
+  "CriticalColor": "#DA3633"
+}

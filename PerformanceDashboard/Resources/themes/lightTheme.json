@@ -1,0 +1,12 @@
+{
+  "Name": "Light",
+  "BackgroundColor": "#FAFAFA",
+  "PanelColor": "#FFFFFF",
+  "TextColor": "#222222",
+  "AccentColor": "#2196F3",
+  "ChartBackground": "#FFFFFF",
+  "ChartLineColor": "#2196F3",
+  "GoodColor": "#4CAF50",
+  "WarningColor": "#FF9800",
+  "CriticalColor": "#E53935"
+}
